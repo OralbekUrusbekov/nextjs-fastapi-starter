@@ -1,0 +1,1 @@
+fastapi fastapi-users anyio starlette uvicorn bcrypt argon2-cffi argon2-cffi-bindings python-jose PyJWT passlib SQLAlchemy alembic psycopg2 psycopg2-binary pydantic pydantic_core email_validator requests python-multipart 
