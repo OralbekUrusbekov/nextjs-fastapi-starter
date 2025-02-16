@@ -5,7 +5,7 @@ import { Ticket, ShoppingCart, Globe, Menu, X } from 'lucide-react';
 import { Language } from '@/types/lang';
 import { useEffect, useState } from 'react';
 import locales from '@/locales/common.json';
-import { useLanguage } from '@/src/app/context/LanguageContext';
+import { useLanguage } from '@/app/context/LanguageContext';
 
 export default function ClientLayout({
   children,

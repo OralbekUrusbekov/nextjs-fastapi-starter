@@ -4,8 +4,8 @@ import {
   CardContent,
   CardHeader,
   CardTitle,
-} from '@/src/app/components/ui/card';
-import { Button } from '@/src/app/components/ui/button';
+} from '@/app/components/ui/card';
+import { Button } from '@/app/components/ui/button';
 import { Users, Ticket, DollarSign, BarChart2 } from 'lucide-react';
 
 const stats = [

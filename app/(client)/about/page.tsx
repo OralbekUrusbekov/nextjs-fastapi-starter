@@ -11,7 +11,7 @@ import {
 import { useState } from 'react';
 import locales from '@/locales/common.json';
 import { Language } from '@/types/lang';
-import { useLanguage } from '@/src/app/context/LanguageContext';
+import { useLanguage } from '@/app/context/LanguageContext';
 
 export default function About() {
   const { lang, setLang } = useLanguage();

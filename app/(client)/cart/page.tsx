@@ -10,11 +10,11 @@ import {
   DialogHeader,
   DialogTitle,
   DialogDescription,
-} from '@/src/app/components/ui/dialog';
-import { Input } from '@/src/app/components/ui/input';
-import { Button } from '@/src/app/components/ui/button';
-import { Label } from '@/src/app/components/ui/label';
-import { useLanguage } from '@/src/app/context/LanguageContext';
+} from '@/app/components/ui/dialog';
+import { Input } from '@/app/components/ui/input';
+import { Button } from '@/app/components/ui/button';
+import { Label } from '@/app/components/ui/label';
+import { useLanguage } from '@/app/context/LanguageContext';
 
 interface CartItem {
   id: number;

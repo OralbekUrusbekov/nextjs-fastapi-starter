@@ -15,7 +15,7 @@ import {
   Minus,
   Router,
 } from 'lucide-react';
-import { Button } from '@/src/app/components/ui/button';
+import { Button } from '@/app/components/ui/button';
 import {
   Card,
   CardContent,
@@ -23,11 +23,11 @@ import {
   CardHeader,
   CardTitle,
   CardFooter,
-} from '@/src/app/components/ui/card';
-import { Input } from '@/src/app/components/ui/input';
-import { Textarea } from '@/src/app/components/ui/textarea';
-import { Label } from '@/src/app/components/ui/label';
-import { toast } from '@/src/app/components/ui/use-toast';
+} from '@/app/components/ui/card';
+import { Input } from '@/app/components/ui/input';
+import { Textarea } from '@/app/components/ui/textarea';
+import { Label } from '@/app/components/ui/label';
+import { toast } from '@/app/components/ui/use-toast';
 import Image from 'next/image';
 
 interface Catalog {

@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { useParams } from 'next/navigation';
 import { MapPin, Star } from 'lucide-react';
-import { Button } from '@/src/app/components/ui/button';
+import { Button } from '@/app/components/ui/button';
 import {
   Card,
   CardContent,
@@ -12,7 +12,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from '@/src/app/components/ui/card';
+} from '@/app/components/ui/card';
 
 interface Catalog {
   id: number;

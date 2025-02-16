@@ -3,16 +3,16 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import { Pencil, Trash2, Plus, Save, X } from 'lucide-react';
-import { Button } from '@/src/app/components/ui/button';
-import { Input } from '@/src/app/components/ui/input';
-import { Textarea } from '@/src/app/components/ui/textarea';
+import { Button } from '@/app/components/ui/button';
+import { Input } from '@/app/components/ui/input';
+import { Textarea } from '@/app/components/ui/textarea';
 import {
   Card,
   CardContent,
   CardFooter,
   CardHeader,
   CardTitle,
-} from '@/src/app/components/ui/card';
+} from '@/app/components/ui/card';
 import { useRouter } from 'next/navigation';
 
 interface Favorite {

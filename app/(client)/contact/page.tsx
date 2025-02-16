@@ -3,7 +3,7 @@
 import { useState, FormEvent, useEffect } from 'react';
 import { Mail, Phone, MapPin, Send } from 'lucide-react';
 import locales from '@/locales/common.json';
-import { useLanguage } from '@/src/app/context/LanguageContext';
+import { useLanguage } from '@/app/context/LanguageContext';
 
 export default function Contact() {
   const { lang, setLang } = useLanguage();

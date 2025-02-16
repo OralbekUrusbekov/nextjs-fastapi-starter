@@ -1,7 +1,7 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Poppins } from 'next/font/google';
-import { LanguageProvider } from '@/src/app/context/LanguageContext';
+import { LanguageProvider } from '@/app/context/LanguageContext';
 
 const poppins = Poppins({
   weight: ['400', '600', '700'],
