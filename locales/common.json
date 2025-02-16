@@ -1,0 +1,525 @@
+{
+  "kz": {
+    "languages": {
+      "en": "Ағылшын",
+      "ru": "Орыс",
+      "kz": "Қазақ",
+      "English": "Ағылшын",
+      "Русский": "Орыс",
+      "Қазақ": "Қазақ",
+      "text": "Тілді таңдаңыз"
+    },
+
+    "hero": {
+      "title": "Ұмытылмас саяхат сәттерін ашыңыз!",
+      "description": "Сізді әлемдегі ең қызықты саяхаттар, турлар мен бағыттар әлеміне жетелейтін қақпа!",
+      "button": "Билеттерді қарау"
+    },
+    "header": {
+      "links": {
+        "labelH": "Басты бет",
+        "labelC": "Каталогтар",
+        "labelA": "Біз туралы",
+        "labelCo": "Байланыс"
+      }
+    },
+
+    "whyChoose": {
+      "title": "Неліктен Birge Tour таңдаған жөн?",
+      "items": {
+        "Calendar": {
+          "title": "Кең таңдаулы",
+          "description": "Әртүрлі қызығушылық пен бюджетке сәйкес келетін көптеген іс-шаралар, турлар мен көрмелерді таңдаңыз."
+        },
+        "MapPin": {
+          "title": "Оңай тапсырыс беру",
+          "description": "Билеттерді бірнеше рет басу арқылы кез келген уақытта және кез келген жерде сатып алыңыз. Жеңіл, жылдам және қауіпсіз."
+        },
+        "Music": {
+          "title": "Эксклюзивті ұсыныстар",
+          "description": "Үздік іс-шаралар мен тәжірибелер бойынша бәсекеге қабілетті бағалар мен эксклюзивті ұсыныстарға қол жеткізіңіз."
+        },
+
+        "MapPinn": {
+          "title": "Ерекше тәжірибелер",
+          "description": "Біз әртүрлі маршруттар бойынша ерекше және қайталанбас саяхат тәжірибелерін ұсынамыз."
+        },
+        "Users": {
+          "title": "Маман гидтер",
+          "description": "Саяхатқа шынымен құштар адамдар үшін біздің тәжірибелі гидтер жасаған керемет сапарларға қосылыңыз."
+        },
+        "Star": {
+          "title": "Әртүрлі маршруттар",
+          "description": "Ең қызықты әрі түрлі маршруттармен танысыңыз, олар сізді шытырман оқиғаларға толы атмосфераға жетелейді."
+        }
+      }
+    },
+
+    "featuredEvents": {
+      "title": "Өзекті іс-шаралар",
+      "bookNow": "Қазір брондау"
+    },
+    "readyToExperience": {
+      "title": "Керемет нәрсені сезінуге дайынсыз ба?",
+      "description": "Ең үздік іс-шаралар мен көрмелерден қалыс қалмаңыз. Біздің кең каталогымыздан билеттерді қазірден бастап зерттеңіз!",
+      "browseCatalogs": "Каталогтарды шолу"
+    },
+    "customerReviews": {
+      "title": "Клиенттеріміз не дейді?",
+      "testimonial": "«TicketMaster біздің демалыс іс-шараларын брондауды өте оңай жасады! Олардан керемет ұсыныстар мен қызметтерді алдық!»"
+    },
+    "about": {
+      "title": "Біз туралы",
+      "introduction": "BirgeTours — барлық билет қажеттіліктеріңізге арналған басты орын. 2020 жылы құрылғаннан бері біз миллиондаған клиенттерді әлем бойынша ұмытылмас тәжірибелермен байланыстырып келеміз.",
+      "mission": "Біздің миссиямыз — оқиғаларды табу, брондау және ләззат алу процесін барынша қарапайым және қызықты ету. Концерт билеттері, мұражайларға кіру немесе гид қызметтері қажет болса, біз сізге көмекке келеміз.",
+      "whatSetsUsApart": "Бізді ерекше ететіндер",
+      "features": {
+        "wideSelection": {
+          "title": "Кең таңдау",
+          "description": "Әлем бойынша барлық қызығушылықтарға сай келетін іс-шаралар мен тәжірибелерге қол жеткізіңіз."
+        },
+        "easyBooking": {
+          "title": "Оңай тапсырыс беру",
+          "description": "Билеттерді жылдам әрі қиындықсыз сатып алуға арналған ыңғайлы платформа."
+        },
+        "competitivePrices": {
+          "title": "Қолжетімді бағалар",
+          "description": "Әртүрлі іс-шараларға тамаша ұсыныстар мен эксклюзивті жеңілдіктер."
+        },
+        "customerSupport": {
+          "title": "Қолдау қызметі",
+          "description": "Кез келген сұрақтарыңыз бен мәселелеріңіз бойынша көмек көрсетуге дайын команда."
+        },
+        "secureTransactions": {
+          "title": "Қауіпсіз төлемдер",
+          "description": "Деректеріңіз бен сатып алуларыңызды қорғауға арналған озық қауіпсіздік шаралары."
+        },
+        "community": {
+          "title": "Қауымдастық",
+          "description": "Іс-шараларға қатысатын серіктестер қауымдастығына қосылып, тәжірибелермен бөлісіңіз."
+        }
+      },
+      "closing": "Біз қызметтерімізді жетілдіру және тұтынушыларымыздың әртүрлі қызығушылықтарын қанағаттандыру үшін ұсыныстарымызды кеңейтуге тырысамыз. Әлемді зерттеу үшін бізбен бірге болыңыз!"
+    },
+
+    "contact": {
+      "pageTitle": "Байланыс",
+      "getInTouch": {
+        "title": "Байланысқа шығу",
+        "description": "Біз сізден хабар алғымыз келеді. Төмендегі формаға мәлімет қалдырыңыз немесе біздің байланыс ақпаратты қолданыңыз.",
+        "address": "123 Билет көшесі, Қала, Ел",
+        "phone": "+1 234 567 890",
+        "email": "info@ticketmaster.com"
+      },
+      "form": {
+        "nameLabel": "Аты-жөні",
+        "emailLabel": "Электрондық пошта",
+        "messageLabel": "Хабарлама",
+        "namePlaceholder": "Өз атыңызды енгізіңіз",
+        "emailPlaceholder": "Электрондық поштаңызды енгізіңіз",
+        "messagePlaceholder": "Хабарламаңызды жазыңыз",
+        "submitButton": "Хабарлама жіберу",
+        "successMessage": "Хабарламаңыз үшін рахмет. Біз сізге жақында жауап береміз!"
+      }
+    },
+
+    "cart": {
+      "pageTitle": "Сіздің Себетіңіз",
+      "emptyCart": {
+        "message": "Сіздің себетіңіз бос",
+        "description": "Сіз әлі ешқандай затты себетке қоспаған сияқтысыз."
+      },
+      "cartItem": {
+        "title": "Тауар",
+        "price": "Баға",
+        "quantity": "Саны",
+        "total": "Жалпы"
+      },
+      "total": "Жалпы сомасы:",
+      "checkoutButton": "Төлем жасау",
+      "checkoutSuccess": "Сіздің төлем сұранысыңыз өңделді!",
+
+      "checkoutError": "Тапсырыс кезінде қате орын алды. Қайталап көріңіз.",
+      "checkoutModal": {
+        "title": "Тапсырысты растау",
+        "description": "Әрбір билет үшін мәліметтерді толтырыңыз",
+        "nameLabel": "Аты-жөні",
+        "phoneLabel": "Телефон нөмірі",
+        "dateLabel": "Сатып алу күні",
+        "submitButton": "Тапсырысты жіберу"
+      }
+    },
+
+    "footer": {
+      "about": {
+        "title": "BirgeTours туралы",
+        "description": "Біз әлем бойынша іс-шараларға, турларға және көрнекті орындарға үздік билеттерді ұсынамыз. Бізбен бірге ұмытылмас сәттерді өткізіңіз.",
+        "copyright": " BirgeTours."
+      },
+      "quickLinks": {
+        "title": "Жылдам Сілтемелер",
+        "links": {
+          "labelH": "Басты бет",
+          "labelC": "Каталогтар",
+          "labelA": "Біз туралы",
+          "labelCo": "Байланыс"
+        }
+      },
+      "contact": {
+        "title": "Бізбен Байланыс",
+        "address": {
+          "location": "Қазақстан, Алматы",
+          "phone": "Телефон: +7 771 825 04 08",
+          "email": "Электрондық пошта: oralbekdevstack@gmail.com"
+        }
+      }
+    }
+  },
+
+  "en": {
+    "languages": {
+      "en": "English",
+      "ru": "Russian",
+      "kz": "Kazakh",
+      "text": "Select language",
+      "English": "English",
+      "Русский": "Russian",
+      "Қазақ": "Kazakh"
+    },
+
+    "hero": {
+      "title": "Uncover Unforgettable Travel Moments!",
+      "description": "Your gateway to the most thrilling travel adventures, tours, and destinations worldwide!",
+      "button": "Browse Tickets"
+    },
+
+    "header": {
+      "links": {
+        "labelH": "Home",
+        "labelC": "Catalogs",
+        "labelA": "About",
+        "labelCo": "Contact"
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Birge Tour?",
+      "items": {
+        "Calendar": {
+          "title": "Wide Selection",
+          "description": "Choose from a vast array of events, tours, and attractions to suit every interest and budget."
+        },
+
+        "MapPin": {
+          "title": "Easy Booking",
+          "description": "Book your tickets with just a few clicks, anytime, anywhere. Simple, fast, and secure."
+        },
+        "Music": {
+          "title": "Exclusive Deals",
+          "description": "Enjoy competitive prices and access to exclusive deals on premium events and experiences."
+        },
+
+        "MapPinn": {
+          "title": "Unique Experiences",
+          "description": "We offer unique and unforgettable travel experiences across diverse routes."
+        },
+        "Users": {
+          "title": "Expert Guides",
+          "description": "Dive into thrilling adventures created by our expert guides for true travel enthusiasts."
+        },
+        "Star": {
+          "title": "Diverse Routes",
+          "description": "Discover diverse routes that immerse you in the atmosphere of adventure."
+        }
+      }
+    },
+    "featuredEvents": {
+      "title": "Featured Events",
+      "bookNow": "Book Now"
+    },
+    "readyToExperience": {
+      "title": "Ready to Experience Something Amazing?",
+      "description": "Don't miss out on the best events and attractions. Start exploring our wide selection of tickets now!",
+      "browseCatalogs": "Browse Catalogs"
+    },
+    "customerReviews": {
+      "title": "What Our Customers Say",
+      "testimonial": "\"TicketMaster made booking our vacation activities so easy! We had an amazing time thanks to their great selection and service.\""
+    },
+    "about": {
+      "title": "About Us",
+      "introduction": "BirgeTours is your premier destination for all your ticketing needs. Founded in 2020, we've been connecting millions of customers with unforgettable experiences across the globe.",
+      "mission": "Our mission is to make the process of discovering, booking, and enjoying events as seamless and enjoyable as possible. Whether you're looking for concert tickets, museum passes, or guided tours, we've got you covered.",
+      "whatSetsUsApart": "What Sets Us Apart",
+      "features": {
+        "wideSelection": {
+          "title": "Wide Selection",
+          "description": "Access to events and experiences worldwide, catering to all interests."
+        },
+        "easyBooking": {
+          "title": "Easy Booking",
+          "description": "User-friendly platform for quick and hassle-free ticket purchases."
+        },
+        "competitivePrices": {
+          "title": "Competitive Prices",
+          "description": "Great deals and exclusive offers on a variety of events."
+        },
+        "customerSupport": {
+          "title": "Customer Support",
+          "description": "Dedicated team ready to assist you with any queries or issues."
+        },
+        "secureTransactions": {
+          "title": "Secure Transactions",
+          "description": "State-of-the-art security measures to protect your data and purchases."
+        },
+        "community": {
+          "title": "Community",
+          "description": "Join a vibrant community of event-goers and share experiences."
+        }
+      },
+      "closing": "We're committed to continually improving our services and expanding our offerings to meet the diverse interests of our customers. Join us in exploring the world, one ticket at a time!"
+    },
+    "contact": {
+      "pageTitle": "Contact Us",
+      "getInTouch": {
+        "title": "Get in Touch",
+        "description": "We'd love to hear from you. Please fill out the form or use our contact information below.",
+        "address": "123 Ticket Street, City, Country",
+        "phone": "+1 234 567 890",
+        "email": "info@ticketmaster.com"
+      },
+      "form": {
+        "nameLabel": "Name",
+        "emailLabel": "Email",
+        "messageLabel": "Message",
+        "namePlaceholder": "Enter your name",
+        "emailPlaceholder": "Enter your email",
+        "messagePlaceholder": "Write your message",
+        "submitButton": "Send Message",
+        "successMessage": "Thank you for your message. We'll get back to you soon!"
+      }
+    },
+    "cart": {
+      "pageTitle": "Your Cart",
+      "emptyCart": {
+        "message": "Your cart is empty",
+        "description": "Looks like you haven't added any items to your cart yet."
+      },
+      "cartItem": {
+        "title": "Item",
+        "price": "Price",
+        "quantity": "Quantity",
+        "total": "Total"
+      },
+      "total": "Total:",
+      "checkoutButton": "Proceed to Checkout",
+      "checkoutSuccess": "Your checkout request has been processed!",
+      "checkoutError": "An error occurred during checkout. Please try again.",
+      "checkoutModal": {
+        "title": "Order Confirmation",
+        "description": "Fill in the details for each ticket",
+        "nameLabel": "Full Name",
+        "phoneLabel": "Phone Number",
+        "dateLabel": "Purchase Date",
+        "submitButton": "Submit Order"
+      }
+    },
+
+    "footer": {
+      "about": {
+        "title": "About BirgeTours",
+        "description": "We provide the best tickets for events, tours, and attractions worldwide. Experience unforgettable moments with us.",
+        "copyright": " BirgeTours."
+      },
+      "quickLinks": {
+        "title": "Quick Links",
+        "links": {
+          "labelH": "Home",
+          "labelC": "Catalogs",
+          "labelA": "About",
+          "labelCo": "Contact"
+        }
+      },
+      "contact": {
+        "title": "Contact Us",
+        "address": {
+          "location": "Kazakhstan, Almaty",
+          "phone": "Phone: +7 771 825 04 08",
+          "email": "Email: oralbekdevstack@gmail.com"
+        }
+      }
+    }
+  },
+
+  "ru": {
+    "languages": {
+      "en": "Англиский",
+      "ru": "Русский",
+      "kz": "Казахский",
+      "text": "Выберите язык",
+      "English": "Англиский",
+      "Русский": "Русский",
+      "Қазақ": "Казахский"
+    },
+
+    "hero": {
+      "title": "Откройте незабываемые моменты путешествий!",
+      "description": "Ваши ворота в самые захватывающие путешествия, туры и направления по всему миру!",
+      "button": "Просмотр билетов"
+    },
+
+    "header": {
+      "links": {
+        "labelH": "Главная",
+        "labelC": "Каталоги",
+        "labelA": "О нас",
+        "labelCo": "Контакты"
+      }
+    },
+
+    "whyChoose": {
+      "title": "Почему выбрать Birge Tour?",
+      "items": {
+        "Calendar": {
+          "title": "Широкий выбор",
+          "description": "Выберите из множества мероприятий, туров и достопримечательностей, соответствующих любым интересам и бюджету."
+        },
+        "MapPin": {
+          "title": "Легкое бронирование",
+          "description": "Забронируйте билеты всего в несколько кликов, в любое время и в любом месте. Просто, быстро и безопасно."
+        },
+        "Music": {
+          "title": "Эксклюзивные предложения",
+          "description": "Получите конкурентоспособные цены и доступ к эксклюзивным предложениям на премиальные мероприятия и впечатления."
+        },
+        "MapPinn": {
+          "title": "Уникальные впечатления",
+          "description": "Мы предлагаем уникальные и незабываемые путешествия по самым разнообразным маршрутам."
+        },
+        "Users": {
+          "title": "Экспертные гиды",
+          "description": "Присоединяйтесь к захватывающим приключениям, созданным нашими опытными гидами для настоящих любителей путешествий."
+        },
+        "Star": {
+          "title": "Разнообразные маршруты",
+          "description": "Откройте для себя различные маршруты, которые погружают вас в атмосферу приключений."
+        }
+      }
+    },
+    "featuredEvents": {
+      "title": "Выставленные мероприятия",
+      "bookNow": "Забронировать сейчас"
+    },
+    "readyToExperience": {
+      "title": "Готовы испытать что-то удивительное?",
+      "description": "Не пропустите лучшие мероприятия и достопримечательности. Начните исследовать наш широкий выбор билетов прямо сейчас!",
+      "browseCatalogs": "Просмотр каталогов"
+    },
+    "customerReviews": {
+      "title": "Что говорят наши клиенты?",
+      "testimonial": "\"TicketMaster упростил бронирование наших отпускных мероприятий! Мы прекрасно провели время благодаря их отличному выбору и сервису.\""
+    },
+    "about": {
+      "title": "О нас",
+      "introduction": "BirgeTours — это ваш главный пункт назначения для всех ваших нужд в билетах. Основанная в 2020 году, мы связываем миллионы клиентов с незабываемыми впечатлениями по всему миру.",
+      "mission": "Наша миссия — сделать процесс поиска, бронирования и наслаждения мероприятиями максимально простым и приятным. Хотите ли вы билеты на концерты, музеи или экскурсии, мы поможем вам.",
+      "whatSetsUsApart": "Что делает нас особенными",
+      "features": {
+        "wideSelection": {
+          "title": "Широкий выбор",
+          "description": "Доступ к мероприятиям и впечатлениям по всему миру, соответствующим любым интересам."
+        },
+        "easyBooking": {
+          "title": "Легкое бронирование",
+          "description": "Удобная платформа для быстрого и беспроблемного приобретения билетов."
+        },
+        "competitivePrices": {
+          "title": "Конкурентные цены",
+          "description": "Выгодные предложения и эксклюзивные скидки на различные мероприятия."
+        },
+        "customerSupport": {
+          "title": "Поддержка клиентов",
+          "description": "Команда, готовая помочь вам с любыми вопросами или проблемами."
+        },
+        "secureTransactions": {
+          "title": "Безопасные транзакции",
+          "description": "Современные меры безопасности для защиты ваших данных и покупок."
+        },
+        "community": {
+          "title": "Сообщество",
+          "description": "Присоединяйтесь к активному сообществу участников мероприятий и делитесь впечатлениями."
+        }
+      },
+      "closing": "Мы стремимся постоянно улучшать наши услуги и расширять наши предложения, чтобы удовлетворить разнообразные интересы наших клиентов. Присоединяйтесь к нам в исследовании мира!"
+    },
+    "contact": {
+      "pageTitle": "Свяжитесь с нами",
+      "getInTouch": {
+        "title": "Свяжитесь с нами",
+        "description": "Мы будем рады услышать от вас. Пожалуйста, заполните форму или используйте нашу контактную информацию ниже.",
+        "address": "123 Билетная улица, Город, Страна",
+        "phone": "+1 234 567 890",
+        "email": "info@ticketmaster.com"
+      },
+      "form": {
+        "nameLabel": "Имя",
+        "emailLabel": "Электронная почта",
+        "messageLabel": "Сообщение",
+        "namePlaceholder": "Введите ваше имя",
+        "emailPlaceholder": "Введите вашу почту",
+        "messagePlaceholder": "Напишите ваше сообщение",
+        "submitButton": "Отправить сообщение",
+        "successMessage": "Спасибо за ваше сообщение. Мы скоро с вами свяжемся!"
+      }
+    },
+    "cart": {
+      "pageTitle": "Ваша Корзина",
+      "emptyCart": {
+        "message": "Ваша корзина пуста",
+        "description": "Похоже, вы еще не добавили товары в корзину."
+      },
+      "cartItem": {
+        "title": "Товар",
+        "price": "Цена",
+        "quantity": "Количество",
+        "total": "Итого"
+      },
+      "total": "Итого:",
+      "checkoutButton": "Перейти к оплате",
+      "checkoutSuccess": "Ваш запрос на оформление успешно обработан!",
+      "checkoutError": "Произошла ошибка при оформлении заказа. Пожалуйста, попробуйте снова.",
+      "checkoutModal": {
+        "title": "Подтверждение заказа",
+        "description": "Заполните данные для каждого билета",
+        "nameLabel": "ФИО",
+        "phoneLabel": "Номер телефона",
+        "dateLabel": "Дата покупки",
+        "submitButton": "Отправить заказ"
+      }
+    },
+
+    "footer": {
+      "about": {
+        "title": "О BirgeTours",
+        "description": "Мы предоставляем лучшие билеты на мероприятия, туры и достопримечательности по всему миру. Испытайте незабываемые моменты с нами.",
+        "copyright": " BirgeTours."
+      },
+      "quickLinks": {
+        "title": "Быстрые Ссылки",
+        "links": {
+          "labelH": "Главная",
+          "labelC": "Каталоги",
+          "labelA": "О нас",
+          "labelCo": "Контакты"
+        }
+      },
+      "contact": {
+        "title": "Свяжитесь с нами",
+        "address": {
+          "location": "Казахстан, Алматы",
+          "phone": "Телефон: +7 771 825 04 08",
+          "email": "Электронная почта: oralbekdevstack@gmail.com"
+        }
+      }
+    }
+  }
+}

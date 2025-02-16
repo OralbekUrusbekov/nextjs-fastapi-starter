@@ -1,3 +1,4 @@
+import { POST } from "@/app/api/cookie/route"
 import React from "react"
 
 export const useSignIn = () => {
@@ -20,7 +21,10 @@ export const useSignIn = () => {
                 })
             })
 
-            const data = await res.json() // ✅ `res()` емес, `res.json()`
+            const data = await res.json()
+
+            POST(data)
+            
             
             if (!res.ok) {
                 throw new Error(data.error || "Invalid credentials")
